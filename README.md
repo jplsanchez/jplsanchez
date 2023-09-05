@@ -12,8 +12,6 @@ I'm always looking for new challenges and opportunities to learn and grow. I'm e
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jplsanchez&theme=neon&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github"  width="364px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jplsanchez&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplsanchez&theme=neon&hide_border=false"  width="400px" />
 -->
